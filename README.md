@@ -1,10 +1,9 @@
 ### :speech_balloon: 경희대학교 산업경영공학과 21학번 임수영입니다.
-아래 주제에 관심이 있습니다.
+### :speech_balloon: 관심 주제
 - Full-Stack Web Development 
 - MachineLearning/DeepLearning 
 
 ### :speech_balloon: 개발 언어
-아래 언어로 모델 혹은 웹페이지를 만들어본 경험이 있습니다.
 - python
 - html, css, javascript
 - react.js

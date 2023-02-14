@@ -1,8 +1,10 @@
 ### :speech_balloon: 경희대학교 산업경영공학과 21학번 임수영입니다.
 ### :speech_balloon: 관심 주제
+- 수요예측
+- 추천시스템 개발
+--------------------------
 - Full-Stack Web Development 
 - MachineLearning/DeepLearning 
-  => 수요예측 모델 / 추천시스템 개발
 
 ### :speech_balloon: 개발 언어
 - python

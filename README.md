@@ -4,9 +4,7 @@
 - MachineLearning/DeepLearning 
 
 ### :speech_balloon: 개발 언어
-<p> 아래 언어로 모델 혹은 웹페이지를 만들어본 경험이 있습니다. </p>
 - python
------
 - html, css, javascript
 - react.js
 - node.js

@@ -1,16 +1,17 @@
 ### :speech_balloon: 경희대학교 산업경영공학과 21학번 임수영입니다.
 ### :speech_balloon: 관심 주제
-- 수요예측
-- 추천시스템 개발
+- Multi Modal Generative Modeling in NLP
 ------
 - Full-Stack Web Development 
 - MachineLearning/DeepLearning 
 
-### :speech_balloon: 개발 언어
+### :speech_balloon: 주 개발 언어
 - python
-- html, css, javascript
+------
+### :speech_balloon: 서브 개발 언어
 - react.js
 - node.js
+- springboot
 - php
 - MySQL
 

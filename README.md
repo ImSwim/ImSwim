@@ -1,5 +1,5 @@
 ### :speech_balloon: 경희대학교 산업경영공학과 21학번 임수영입니다.
-### NLP, CV 분야의 생성 모델을 기반으로 딥러닝 서비스를 개발, 배포하기 위한 공부를 하고 있습니다.
+NLP, CV 분야에서 생성 모델을 기반으로 딥러닝 서비스를 개발, 배포하기 위한 공부를 하고 있습니다.
 ### :speech_balloon: 관심 주제
 - Multi Modal Generative Modeling in NLP and CV
 ------
